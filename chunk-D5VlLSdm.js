@@ -1,0 +1,1 @@
+import{Ei as ne}from"./chunk-Co2uv5mq.js";var s=ne.instance;export{s as t};

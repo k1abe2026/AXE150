@@ -1,0 +1,1 @@
+import{Da as xH,F as Ee,Pn as _H,Pr as ge}from"./chunk-Co2uv5mq.js";var d=(()=>{class e{get myRole(){return ge.myRole}get canEditTabletop(){return _H(ge.myRole)}get canSeeHidden(){return xH(ge.myRole)}static{this.ɵfac=function(i){return new(i||e)}}static{this.ɵprov=Ee({token:e,factory:e.ɵfac,providedIn:`root`})}}return e})();export{d as t};
